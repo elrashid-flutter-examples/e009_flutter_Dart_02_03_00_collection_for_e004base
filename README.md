@@ -1,9 +1,8 @@
 # e009_flutter_dart_02_03_00_collection_for_e004base
-![](docs/screen_record.gif)
 
+![app screen record](docs/screen_record.gif)
 
 ## Step 1 - old code
-
 
     var tasks = List<TaskOpj>();
     @override
