@@ -1,6 +1,24 @@
 # e009_flutter_dart_02_03_00_collection_for_e004base
 
+## Based On e007
+
+- [elrashid-flutter-examples/e007_flutter_reorderable_listview_e004base](https://github.com/elrashid-flutter-examples/e007_flutter_reorderable_listview_e004base)
+
+  - Based On e004 :
+
+    - [elrashid-flutter-examples/e004_flutter_listview_crud_app_using_nonsecure_rest_api](https://github.com/elrashid-flutter-examples/e004_flutter_listview_crud_app_using_nonsecure_rest_api)
+
+## Screen Record
+
 ![app screen record](docs/screen_record.gif)
+
+## What
+
+- used collection if and collection for introduced in Dart 2.3
+
+- must run with :
+
+  - [elrashid-flutter-examples/e002-aspcore-rest-api-server-for-flutter](https://github.com/elrashid-flutter-examples/e002-aspcore-rest-api-server-for-flutter)
 
 ## Step 1 - old code
 
